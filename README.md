@@ -1,6 +1,6 @@
 # Artificial Intelligence Research Institute
 
-## Advancing research, innovation, and exploration in the field of artificial intelligence at the Technical University of Cluj-Napoca
+> Advancing research, innovation, and exploration in the field of artificial intelligence at the Technical University of Cluj-Napoca
 
 A nexus for collaborative research at the Technical University of Cluj-Napoca, promoting excellence in AI theory and practice, and bringing together researchers across UTCN around the vision of open collaboration across AI boundaries  
 To pursue its mission, AIRI articulates its vision around two pillars: research and external engagement. Collectively, AIRi promotes:  
