@@ -1,6 +1,6 @@
 # Artificial Intelligence Research Institute - AIRi@UTCN
 
-Advancing research, innovation, and exploration in AI at the Technical University of Cluj-Napoca (UTCN)
+AI at the Technical University of Cluj-Napoca (UTCN)
 
 A nexus for collaborative research at the Technical University of Cluj-Napoca. 
   
