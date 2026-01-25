@@ -1,15 +1,11 @@
-# Artificial Intelligence Research Institute
+# Artificial Intelligence Research Institute - AIRI@UTCN
 
-> Advancing research, innovation, and exploration in the field of artificial intelligence at the Technical University of Cluj-Napoca
+Advancing research, innovation, and exploration in AI at the Technical University of Cluj-Napoca (UTCN)
 
-A nexus for collaborative research at the Technical University of Cluj-Napoca, promoting excellence in AI theory and practice, and bringing together researchers across UTCN around the vision of open collaboration across AI boundaries  
-To pursue its mission, AIRI articulates its vision around two pillars: research and external engagement. Collectively, AIRi promotes:  
-- excellence in AI-powered interdisciplinary research
-- AI literacy within UTCN in consideration of the diversity of needs across disciplines  
-- impact of UTCN research through business and public co-creation partnerships  
+A nexus for collaborative research at the Technical University of Cluj-Napoca. 
   
 ## Research Teams
-- [Explainable Intelligent Systems with Romanian HUb for AI](https://github.com/orgs/airi-utcn/teams/hria-xai/repositories)
+- [Explainable Intelligent Systems with Romanian Hub for AI](https://github.com/orgs/airi-utcn/teams/hria-xai/repositories)
 - [AI video generation for promoting scientific papers](https://github.com/orgs/airi-utcn/teams/airtv/repositories)
 - [dlt-ai](https://github.com/orgs/airi-utcn/teams/dlt-ai/repositories)
 - [discourse-resolution](https://github.com/orgs/airi-utcn/teams/discourse-resolution/repositories)
