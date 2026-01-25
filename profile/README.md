@@ -1,4 +1,4 @@
-# Artificial Intelligence Research Institute - AIRI@UTCN
+# Artificial Intelligence Research Institute - AIRi@UTCN
 
 Advancing research, innovation, and exploration in AI at the Technical University of Cluj-Napoca (UTCN)
 
